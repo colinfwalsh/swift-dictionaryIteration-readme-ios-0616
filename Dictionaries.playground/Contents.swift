@@ -37,6 +37,7 @@ let toyStoryFilms = [
 
 let starWarsFilms = [
     "Star Wars",
+    "Star Wars: Attack of the Trekies",
     "The Empire Strikes Back",
     "Star Wars: Episode VI",
     "Star Wars: Episode I",
